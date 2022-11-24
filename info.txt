@@ -2,3 +2,4 @@ git is the fast version  control system
 this is task two
 git is light weight
 git is widely used
+git is easy to work with
