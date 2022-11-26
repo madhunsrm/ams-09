@@ -6,3 +6,4 @@ git is easy to work with
 git is nice tool
 git is bad 
 this is my task1
+this is my task2
